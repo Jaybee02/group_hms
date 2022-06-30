@@ -20,6 +20,12 @@
 .row h6{
     opacity: 0.90;
 }
-/* .c{
-    margin-bottom: 90px !important;
-} */
+
+img{
+   width:20%;
+}
+
+.tt{
+    font-size: 14px !important;
+    opacity: 0.90;
+}

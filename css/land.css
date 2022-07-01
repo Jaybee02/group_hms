@@ -11,21 +11,17 @@
     outline: none;
     padding: 0.85rem 1.3rem;
     font-family: 'Inter', sans-serif;
+    position: relative;
 }
 
-.row h5{
-    font-weight:600;
-}
-
-.row h6{
-    opacity: 0.90;
-}
-
-img{
-   width:20%;
-}
 
 .tt{
     font-size: 14px !important;
     opacity: 0.90;
 }
+
+.img-l{
+    width: 120px;
+    height: 77px;
+}
+
